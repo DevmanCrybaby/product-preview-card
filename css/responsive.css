@@ -1,0 +1,10 @@
+@media (max-width: 375px){
+    .content-box{
+        display: block;
+    }
+
+    .product-img{
+        height: 100px;
+        width: 100px; /* Com certeza essa porra dessa imagem ta como background de um elemento */
+    }
+}
