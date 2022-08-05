@@ -1,10 +1,17 @@
-@media (max-width: 375px){
-    .content-box{
+@media (max-width: 620px){
+    .card{
         display: block;
+        height: 605px;
+        max-width: 340px;
     }
 
-    .product-img{
-        height: 100px;
-        width: 100px; /* Com certeza essa porra dessa imagem ta como background de um elemento */
+    .card .product-preview{
+        border-bottom-left-radius: 0px;
+        border-top-right-radius: 10px;
+        min-height: 40%;
+    }
+
+    .card .right-section{
+        padding: 15px;
     }
 }
