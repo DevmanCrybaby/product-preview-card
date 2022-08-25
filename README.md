@@ -14,8 +14,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -31,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsivel-landing-page-using-flexbox-Wb54ucX3kI)
-- Live Site URL: [Add live site URL here](https://devmancrybaby.github.io/product-preview-card/)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsivel-landing-page-using-flexbox-Wb54ucX3kI](https://www.frontendmentor.io/solutions/responsivel-landing-page-using-flexbox-Wb54ucX3kI)
+- Live Site URL: [https://devmancrybaby.github.io/product-preview-card/](https://devmancrybaby.github.io/product-preview-card/)
 
 ## My process
 
