@@ -60,4 +60,4 @@ I plan to keep progreeding in the technologies of HTML, CSS, Javascript, and Rea
 ## Author
 
 - Github - [DevManCrybaby](https://github.com/DevManCrybaby)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/DevManCrybaby)
+- Frontend Mentor - [@DevmanCrybaby](https://www.frontendmentor.io/profile/DevManCrybaby)
